@@ -4,7 +4,7 @@ Contains steps to start a Node.js project using TypeScript
 ##Installing required applications
 1. Install node.js from [nodejs.org](https://nodejs.org/)
    This includes NPM, this is the only recommended way of installing NPM.
-2. Install Python version < 3, note version 3.0+ will throw errors while install NPM packages and running Node.js applications.
+2. Install Python version < 3, note version 3.0+ will throw errors while installing NPM packages and running Node.js applications.
 3. Update NPM package manager 
 	```
     npm install npm -g
